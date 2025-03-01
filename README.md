@@ -87,6 +87,12 @@
   <a href="https://twitter.com/MustfainT" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
+  <a href="https://www.fiverr.com/mustafan02" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Fiverr&logo=fiverr&label=&color=1DBF73&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="fiverr logo"  />
+  </a>
+  <a href="https://mustfain-protfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
+  </a>
 </div>
 
 ###
@@ -97,6 +103,28 @@
 
 ###
 
-<p align="left">I specialize in building AI-powered solutions that enhance data access, decision-making, and automation. My expertise lies in Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI-driven backend systems.<br><br>🔹 AI & Machine Learning: Deep Learning, LLM Fine-tuning, OpenAI API, Hugging Face Transformers, LangChain<br>🔹 Backend Development: FastAPI, Flask, Docker, Kubernetes, Redis, PostgreSQL, MongoDB<br>🔹 Cloud & DevOps: AWS (S3, Lambda, EC2), GCP, CI/CD Pipelines, MLOps, Vector Databases (FAISS, Pinecone)<br>🔹 NLP & AI Agents: Prompt Engineering, AI Workflow Automation, Twilio AI Agents, Text Summarization<br><br>📌 What I'm Working On<br>Fine-tuning LLMs & RAG Pipelines for AI-powered applications<br>Developing AI-driven EdTech platforms<br>Building and deploying microservices for AI-based systems<br>🔥 Featured Projects<br>📝 Generative AI-Enhanced Journaling App – Integrated NLP & AI for personalized journaling<br>🤖 E-commerce RAG Chatbot – Built a chatbot with GPT-4 & Firebase for real-time interactions<br>📡 MLOps Pipeline – Deployed ML models using MLFlow, Airflow, and Kubernetes<br>💡 Passionate about AI, NLP, Cloud Computing, and Software Engineering, I love working on cutting-edge AI applications and contributing to the tech community.</p>
+<p align="left">
+I specialize in building AI-powered solutions that enhance data access, decision-making, and automation. My expertise lies in Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI-driven backend systems.
+
+🔹 **AI & Machine Learning**: Deep Learning, LLM Fine-tuning, OpenAI API, Hugging Face Transformers, LangChain, LoRA, QLoRA, FlashAttention, MoE (Mixture of Experts)<br>
+🔹 **Backend Development**: FastAPI, Flask, Docker, Kubernetes, Redis, PostgreSQL, MongoDB, Vector Databases (FAISS, Pinecone, Weaviate, ChromaDB)<br>
+🔹 **Cloud & DevOps**: AWS (S3, Lambda, EC2, Bedrock), GCP, Azure AI, CI/CD Pipelines, MLOps, Ray, Model Serving (Triton, vLLM)<br>
+🔹 **NLP & AI Agents**: Prompt Engineering, AI Workflow Automation, Twilio AI Agents, Text Summarization, AutoGPT, BabyAGI, LlamaIndex<br>
+
+📌 **What I'm Working On**<br>
+✔️ Fine-tuning LLMs & RAG Pipelines for AI-powered applications<br>
+✔️ Developing AI-driven EdTech platforms<br>
+✔️ Building and deploying microservices for AI-based systems<br>
+✔️ Exploring multimodal AI models for text, image, and speech applications<br>
+✔️ Implementing real-time AI inference with optimized model serving<br>
+
+🔥 **Featured Projects**<br>
+📝 **Generative AI-Enhanced Journaling App** – Integrated NLP & AI for personalized journaling<br>
+🤖 **E-commerce RAG Chatbot** – Built a chatbot with GPT-4, LangChain, and Firebase for real-time interactions<br>
+📡 **MLOps Pipeline** – Deployed ML models using MLFlow, Airflow, and Kubernetes<br>
+🎨 **Multimodal AI Image Generator** – Developed a system leveraging OpenAI’s DALL·E & Stable Diffusion<br>
+
+💡 Passionate about AI, NLP, Cloud Computing, and Software Engineering, I love working on cutting-edge AI applications and contributing to the tech community.
+</p>
 
 ###
