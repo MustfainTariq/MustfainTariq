@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi there, I'm Mustfain Tariq! <br>🚀 AI & Machine Learning Engineer<br>🎓 FAST-NUCES | AWS Academy Graduate</h2>
+[<h2 align="center">👋 Hi there, I'm Mustfain Tariq! <br>🚀 AI & Machine Learning Engineer<br>🎓 FAST-NUCES | AWS Academy Graduate</h2>
 
 ###
 
@@ -102,3 +102,4 @@
 </div>
 
 ###
+](https://github.com/MustfainTariq/MustfainTariq)
