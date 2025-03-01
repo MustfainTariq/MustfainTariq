@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://gist.github.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif"  />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXc0d2hpcXJjbGZ3dXRnYWN6ajI3MXJ2emt4NTM5bzBrc3E0NWdwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif"  />
 
 ###
 
