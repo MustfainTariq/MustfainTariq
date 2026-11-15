@@ -33,7 +33,7 @@
 
 | Project | What it is | Link |
 | :-- | :-- | :-- |
-| **MoveVidAI**<br><sub>Multi-tenant SaaS</sub> | SaaS for moving companies — customers record a walkthrough video, Gemini detects the inventory and the platform generates itemised quotes and PDF invoices. Cuts quote preparation time by around 75%. | [Live demo](https://movevidai.vercel.app/) |
+| **MoveVidAI**<br><sub>Multi-tenant SaaS</sub> | SaaS for moving companies — customers record a walkthrough video, Gemini detects the inventory and the platform generates itemised quotes and PDF invoices. Cuts quote preparation time by around 75%. | [movevidai.com](https://www.movevidai.com/) |
 | **DIY Finance™**<br><sub>FinTech · Mobile</sub> | Personal finance app live on Google Play — Plaid bank linking, a custom DIY Finance Score, real-time net worth and an AI financial coach. | [Google Play](https://play.google.com/store/apps/details?id=com.mustfain.diyfinance) |
 | **AI calling agent**<br><sub>Voice AI · Backend</sub> | FastAPI backend running campaign, outbound and inbound calls with AI agents — Twilio telephony, ElevenLabs voice cloning and CRM integration. | Client work |
 | **E-commerce RAG assistant**<br><sub>Agentic AI</sub> | Context-aware shopping assistants with retrieval over product knowledge and chat history, serving many sellers from one platform (GPT-4, Pinecone, Firebase, MCP). | [Kachiing](https://kachiing.com/) |
